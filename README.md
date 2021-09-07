@@ -1,2 +1,2 @@
 # test
-Test repository
+Test repository for package testings
